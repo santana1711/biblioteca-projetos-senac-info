@@ -1,0 +1,50 @@
+
+/* fontes */
+ h3{
+    font-size: 25px;
+    align-items: center;
+    text-align: center;
+
+ }
+
+ /* header */
+
+header {
+    background-color: #ffffff;
+
+  }
+
+ nav{
+    margin-top: 10px;
+ }
+
+
+
+  .areaLogo{
+    padding-left: 50px;
+ 
+  }
+
+  .logo{
+    width: 120px;
+    height: 75px;
+    
+  }
+
+  .itensNav{
+    padding-top: 10px;
+    padding-left: 45px;
+    font-size: 15px;
+    
+  }
+
+
+  /* body */
+
+  .titulo{
+    padding: 20px;
+  }
+  p{
+    
+  }
+  
